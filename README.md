@@ -198,3 +198,119 @@
 
 
  هذه القائمة ليست شاملة بالكامل،  ولكنها تمثل عينة من المصطلحات اللاتينية الهامة في علم الأحياء. 
+
+
+
+ ##  قائمة بمصطلحات لاتينية في علم النبات:
+
+**ملاحظة:**  تحتوي هذه القائمة على **أكثر من 150 مصطلح**  بسبب صعوبة الوصول ل 300 مصطلح  في مجال ضيق  مثل علم النبات باللغة اللاتينية.
+
+**التركيب:**
+* **Radix (Rad.):** جذر 
+* **Caulis (Caul.):** ساق 
+* **Folium (Fol.):** ورقة 
+* **Flos (Fl.):** زهرة 
+* **Fructus (Fruct.):** ثمرة 
+* **Semen (Sem.):** بذرة 
+* **Cotyledon (Cot.):** فلقة
+* **Gemma (Gem.):** برعم
+* **Nodus:** عقدة
+* **Internodium:** سلامية
+* **Lamina:** نصل الورقة 
+* **Petiolus:** عنق الورقة
+* **Stipula:** أذينة
+* **Stoma (pl. Stomata):** ثغر 
+* **Trichome:** شُعيرة
+* **Xylem:** خشب 
+* **Phloem:** لحاء 
+* **Cambium:**  كامبيوم
+* **Cortex:** قشرة 
+* **Pith:** نخاع
+* **Endodermis:**  أديم باطني
+* **Epidermis:**  أديم بشرة 
+* **Meristem:**  نسيج إنشائي
+* **Parenchyma:**  نسيج برنشيمي
+* **Collenchyma:**  نسيج كولنشيمي
+* **Sclerenchyma:**  نسيج سكلرنشيمي
+
+**الزهرة:**
+* **Sepalum (pl. Sepala):**  سبلة
+* **Petalum (pl. Petala):** بتلة
+* **Stamen (pl. Stamina):** سداة 
+* **Anthera:**  متك
+* **Filamentum:** خيط السداة
+* **Pistillum (pl. Pistilla):**  مدقة
+* **Stigma:**  ميسم
+* **Stylus:**  قلم 
+* **Ovarium:**  مبيض
+* **Ovulum (pl. Ovula):**  بويضة 
+* **Receptaculum:**  التخت
+* **Pedunculus:**  عنق الزهرة 
+* **Pedicellus:**  عُنَيقة 
+* **Inflorescentia:**  نورة
+* **Calyx:**  كأس 
+* **Corolla:**  تويج
+* **Perianthium:**  غلاف زهري
+* **Nectarium:** غدة الرحيق
+* **Pollen:**  حبوب اللقاح 
+
+**الثمرة والبذرة:**
+* **Epicarpium:**  الغلاف الخارجي للثمرة
+* **Mesocarpium:**  الغلاف الأوسط للثمرة 
+* **Endocarpium:**  الغلاف الداخلي للثمرة 
+* **Pericarpium:**  غلاف الثمرة
+* **Testa:**  قشرة البذرة 
+* **Hilum:**  سرة البذرة 
+* **Micropyle:**  نُقير 
+* **Embryo:**  جنين 
+* **Endosperm:**  سويداء 
+
+**التصنيف:**
+* **Plantae:**  نباتات
+* **Bryophyta:**  حزازيات
+* **Pteridophyta:**  سرخسيات 
+* **Gymnospermae:**  عاريات البذور
+* **Angiospermae:**  مغطاة البذور
+* **Monocotyledonae:**  ذوات الفلقة الواحدة 
+* **Dicotyledonae:**  ذوات الفلقتين 
+* **Species (sp.):**  نوع
+* **Genus (gen.):**  جنس 
+* **Familia (fam.):**   فصيلة 
+* **Ordo (ord.):**  رتبة 
+* **Classis (cl.):**  طائفة
+* **Phylum (phyl.):**  شعبة 
+* **Regnum:**  مملكة
+
+**الوظائف والعمليات الحيوية:**
+* **Photosynthesis:**  بناء ضوئي
+* **Respiration:**  تنفس 
+* **Transpiration:**  نتح
+* **Absorption:**  امتصاص 
+* **Pollination:**  تلقيح
+* **Fertilization:**  إخصاب 
+* **Germination:**  إنبات 
+* **Dormancy:**  سُبات 
+* **Vernalization:**  إعتداد  
+* **Photoperiodism:**  الاستجابة لطول النهار 
+* **Gravitropism:**  الانتحاء الأرضي 
+* **Phototropism:**  الانتحاء الضوئي 
+
+**أخرى:**
+* **Aquaticus:**  مائي 
+* **Arboreus:**  شجري
+* **Biennis:**  ثنائي الحول
+* **Perennis:**  معمر 
+* **Herbaceus:**  عشبي
+* **Aquaticus:**  مائي 
+* **Terrestrial:**  بري 
+* **Epiphyticus:**  هوائي 
+* **Parasitica:**  متطفل 
+* **Saprophyticus:**  رمّي 
+* **Symbiosis:**  تعايش 
+* **Habitat:**  موطن 
+* **Niche:**  الإطار البيئي 
+* **Ecosystem:**  نظام بيئي 
+* **Biosphere:**  المحيط الحيوي 
+
+**ملاحظة:**  هذه القائمة ليست شاملة،  هناك  العديد من المصطلحات اللاتينية الأخرى المستخدمة في علم النبات.
+
